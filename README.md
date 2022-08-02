@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali-Shokrollahi
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django rest framework
 - 💞️ I’m looking to collaborate on anything educational
 - 📫 How to reach me ali.shokrollahi.pro@gmail.com
 
